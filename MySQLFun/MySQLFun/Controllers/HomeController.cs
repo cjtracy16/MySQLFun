@@ -11,15 +11,19 @@ namespace MySQLFun.Controllers
 {
     public class HomeController : Controller
     {
+        private IRecipesRepository repo { get; set; }
       
-        public HomeController()
+        public HomeController(IRecipesRepository temp)
         {
-
+            repo = temp;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var x = repo.Recipes
+                .ToList();
+            
+            return View(x);
         }
     }
 }

@@ -49,3 +49,9 @@ C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\obj\Debug\netcorea
 C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\obj\Debug\netcoreapp3.1\MySQLFun.dll
 C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\obj\Debug\netcoreapp3.1\MySQLFun.pdb
 C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\obj\Debug\netcoreapp3.1\MySQLFun.genruntimeconfig.cache
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Conner Tracy\source\repos\MySQLFun\MySQLFun\MySQLFun\obj\Debug\netcoreapp3.1\MySQLFun.csproj.AssemblyReference.cache
